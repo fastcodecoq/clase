@@ -54,12 +54,13 @@
                 <li class="nav"><h1 style="font-size: 1.5em">Clase 1 Desarrollo Web</h1></li>
 
                <li class="nav visible-desktop" style="margin-left:1em">
-                
+                <ul>
                 <li class='nav'><a href="#">Opcion</a></li>
                 <li class='nav'><a href="#">Opcion</a></li>
                 <li class='nav'><a href="#">Opcion</a></li>
                 <li class='nav'><a href="#">Opcion</a></li>
                 <li class='nav'><a href="#">Opcion</a></li>
+                </ul>
               </li>
 
 
