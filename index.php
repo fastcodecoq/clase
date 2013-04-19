@@ -31,6 +31,16 @@
 
         }
 
+        @media (min-width: 1000px) { 
+
+            #contenido{
+
+                margin-left: 5%;
+
+            }
+
+        }
+
      </style>
     
   </head>
@@ -61,7 +71,7 @@
 
        <div id="contenido" class="row-fluid">
 
-          <div class="span8 well" style="margin-left: 5%">
+          <div class="span8 well" >
 
             <article class="span6">
 
